@@ -1,4 +1,4 @@
-package com.sylvia.mi_card
+package tw.edu.kh.kihs.mi_card
 
 import io.flutter.embedding.android.FlutterActivity
 
